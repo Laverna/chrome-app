@@ -1,0 +1,17 @@
+{
+  "name": "Laverna",
+  "description": "WebClipper for Laverna.cc",
+  "version": "0.1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "imgs/icon-128.png"
+  },
+  "app": {
+    "urls": [
+      "https://laverna.cc/"
+    ],
+    "launch": {
+      "web_url": "https://laverna.cc/index.html"
+    }
+  }
+}
