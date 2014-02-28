@@ -1,6 +1,6 @@
 {
   "name": "Laverna",
-  "description": "WebClipper for Laverna.cc",
+  "description": "Laverna is note taking web application with encryption support",
   "version": "0.1",
   "manifest_version": 2,
   "icons": {
